@@ -1,0 +1,17 @@
+
+  body {
+    background-image: url("beach.jipeg");
+  }
+  .bbouton{
+      display: flex;
+      
+      
+  }
+
+  button{
+      margin: 30px 50px 30px 50px;
+  }
+
+  p{
+      margin-block: 100px;
+  }
